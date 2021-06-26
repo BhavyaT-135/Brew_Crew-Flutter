@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088968645629",
+    "project_id": "bhavya-brew-crew-39ee3",
+    "storage_bucket": "bhavya-brew-crew-39ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088968645629:android:55d6d609e775428c7a9794",
+        "android_client_info": {
+          "package_name": "com.bhavya_t.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088968645629-po2geck5pul0bp8isp3706rotrmuosq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJcgkpnSH2QdVAQP-JTZGoUzG2ZtEuBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088968645629-po2geck5pul0bp8isp3706rotrmuosq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
